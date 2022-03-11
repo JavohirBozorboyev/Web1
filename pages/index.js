@@ -1,4 +1,3 @@
-import Head from "next/head";
 import About from "../layout/Home/About/About";
 import Contact from "../layout/Home/Contact/Contact";
 import Header from "../layout/Home/Header/Header";

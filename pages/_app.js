@@ -1,5 +1,6 @@
-import AppContainer from '../layout/AppContainer/AppContainer'
-import '../styles/globals.css'
+import AppContainer from "../layout/AppContainer/AppContainer";
+import "../styles/globals.css";
+import React from "react";
 
 function MyApp({ Component, pageProps }) {
   return (
@@ -9,4 +10,4 @@ function MyApp({ Component, pageProps }) {
   );
 }
 
-export default MyApp
+export default MyApp;

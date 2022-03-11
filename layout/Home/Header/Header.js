@@ -6,7 +6,7 @@ function Header() {
   return (
     <div id="header" className="bg-black pt-10 pb-12 overflow-hidden">
       <div className="container py-8 relative flex items-center min-h-[90vh] flex-col md:flex-row   rounded-md">
-        <div className="w-full md:w-6/12 flex justify-center items-center ">
+        <div className="w-full md:w-6/12 flex relative justify-center items-center ">
           <Image
             src={Javohir}
             height={1000}
