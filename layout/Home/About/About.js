@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/dist/client/image";
-import Javohir2 from "../../../img/javs.png"
+import Javohir2 from "../../../img/Javs.png"
 
 
 function About() {
