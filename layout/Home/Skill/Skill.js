@@ -51,18 +51,21 @@ function Skill() {
       <div className="container py-8 flex flex-col items-center md:flex-row">
         <div className="w-full md:w-6/12 p-2 py-20 flex justify-center relative z-20 overflow-hidden">
           <div className="text-gray-700 -rotate-1 p-4 z-20 lg:w-8/12 rounded-md bg-white shadow-white shadow-x5">
-            <h1 className=" text-xl mb-4 text-emerald-300 font-bold font-serif">Frontend Developer</h1>
+            <h1 className=" text-xl mb-4 text-emerald-300 font-bold font-serif">
+              Frontend Developer
+            </h1>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nemo
-              dolore explicabo aspernatur at veniam ipsum ab corrupti voluptatum
-              aliquam est cupiditate, debitis ratione sequi consequatur.
-              Ducimus, earum vitae! Recusandae, omnis?
+              I started Learning Web Programming in 2021. While studying, I
+              learned modern technology. My main focus was learning the
+              Javascript React library.
             </p>
             <p className="mt-2">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum
-              aliquam facere perspiciatis reiciendis illum. Ad magni perferendis
-              facilis, quis saepe animi, rem culpa rerum perspiciatis facere
-              optio modi reiciendis asperiores.
+              I studied the React.js library in depth with the Next.js
+              Framework. Next.js has created a number of conveniences for Web
+              apps to work. With these conveniences, it is possible to develop
+              Web applications from simple to complex levels. I made extensive
+              use of Git and Github during my work. I gained experience working
+              as a team.
             </p>
           </div>
           <div className="absolute left-[10%] right-[15%] rounded-md rotate-6 top-[10%] bottom-[10%] shadow-x5 shadow-emerald-300 bg-emerald-300 -z-10"></div>

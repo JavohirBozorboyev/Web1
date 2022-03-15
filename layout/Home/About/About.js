@@ -16,17 +16,14 @@ function About() {
         <div className="w-full p-2 md:w-6/12 flex flex-col items-start">
           <h2 className="text-emerald-300 text-2xl font-bold">About</h2>
           <p className="mt-4 lg:w-10/12 text-gray-500  border-2 p-2 border-emerald-300">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis
-            animi quasi vel placeat corporis praesentium eligendi non cumque
-            quisquam ipsa maxime dicta earum id est iusto dolor, nisi eius
-            harum!
+            I am Javohir Bozorboyev. I was born in 2002 in the town of Almaz,
+            Chust, Namangan region, Uzbekistan. In 2019, I started studying at
+            the Namangan Institute of Engineering Technologies as a Bachelor.
           </p>
 
           <p className="mt-4 lg:w-10/12 text-gray-500 border-2 p-2 border-emerald-300">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum
-            tempore eaque harum odio minima? Alias amet eligendi, cupiditate
-            illum optio vitae dolore natus? Facere illo ipsa, voluptas ullam
-            laborum dicta!
+            Because of my interest in programming activities, in 2021 I started
+            to increase my experience in the field of Web programming.
           </p>
 
           <a
