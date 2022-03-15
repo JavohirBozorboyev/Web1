@@ -1,5 +1,5 @@
 import React from "react";
-import Stanford from "../../../img/stanford.png";
+import Stanford from "../../../img/Stanford.png";
 import Image from "next/image";
 
 function Portfolio() {
@@ -12,14 +12,6 @@ function Portfolio() {
         <p className="w-full h-1 bg-black -mt-8"></p>
       </div>
       <div className="container py-12 flex flex-wrap justify-around">
-        {/* <div className="w-full  relative sm:w-10/12 md:w-[45%] lg:w-[45%] mt-4 shadow-x5 overflow-hidden ">
-          <div className="h-[400px] bg-emerald-200 overflow-hidden"></div>
-          <div className="flex border-2 p-2 justify-around bg-white">
-            <p className="h-8 w-8 bg-green-400 rounded-full"></p>
-            <p className="h-8 w-8 bg-green-400 rounded-full"></p>
-            <p className="h-8 w-8 bg-green-400 rounded-full"></p>
-          </div>
-        </div> */}
         <div className="w-full  relative sm:w-10/12 md:w-[45%] lg:w-[45%] mt-4 shadow-x5 shadow-black overflow-hidden ">
           <div className="h-[400px] relative  overflow-hidden">
             <Image
