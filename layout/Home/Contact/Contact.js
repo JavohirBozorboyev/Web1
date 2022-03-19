@@ -46,7 +46,7 @@ function Contact() {
         </div>
         <div className="w-10/12 sm:w-[48%]  md:w-[30%] mt-4 flex flex-col  items-center bg-white  shadow-x5 rounded p-4">
           <a
-            href="https://myaccount.google.com/u/1/?hl=ru&utm_source=OGB&utm_medium=act"
+            href="/"
             className="h-16 w-16 flex justify-center items-center text-white rounded-full bg-emerald-300 shadow-x5 shadow-emerald-300"
           >
             <svg
